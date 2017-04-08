@@ -1,3 +1,0 @@
-rosrun map_lidar_backbone PointCloudPublisher 1479967790 1479967870
-
-
