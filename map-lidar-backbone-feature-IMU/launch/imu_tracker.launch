@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="imu_tracker" name="imu_tracker_node" type="imu_tracker_node"/>
+</launch>
